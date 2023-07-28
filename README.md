@@ -12,7 +12,7 @@ V1.6
 
 
 # 目前完美支持设备列表：
-Google Pixel 6 Pro
+Google Pixel 6
 
 Google Pixel 3a
 
@@ -24,6 +24,8 @@ Google Pixel Experience 从Android10 ~ Android14
 MIUI 14(Android13)
 
 # 目前控件显示错位设备列表：
+Google Pixel 6 Pro
+
 Vivo y31s
 
 # 目前功能使用障碍设备列表：
